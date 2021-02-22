@@ -1,6 +1,6 @@
 var start = 0;
 
-var defaultURL = 'https://httpbin.org/anything';
+var defaultURL = 'https://www.wsj.com/';
 
 document.getElementById("url").value = defaultURL
 document.getElementById("time").textContent = 'loading...';
